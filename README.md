@@ -4,9 +4,9 @@ In-game, you can use the /flyby command to trigger the flyby event. The plane wi
 
 Make sure to adjust the configuration variables at the beginning of the script (planeModel, spawnCoords, destinationCoords, and doorOpen) to match your desired settings.
 
-#Changelog
+# Changelog
 
-##v0.4.0-beta
+## v0.4.0-beta
 > (2023-06-02)
 
 This is the initial version, there is no guarantee it works.
