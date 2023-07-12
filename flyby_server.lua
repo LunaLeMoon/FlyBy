@@ -1,5 +1,5 @@
 -- Configuration
-local planeModel = "luxor2" -- Change this to the desired plane model
+local planeModel = "globe" -- Change this to the desired plane model
 local spawnCoords = vector3(1000.0, 50.0, 100.0) -- Change this to the desired spawn coordinates
 local destinationCoords = vector3(2000.0, 1500.0, 100.0) -- Change this to the desired destination coordinates
 local doorOpen = true -- Set this to true if you want the doors to be open initially
